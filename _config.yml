@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Heyuan Yao 姚何塬"
-  pronouns         : "he/his"  
+  pronouns         : "He/His/Him"  
   bio              : "First Year PhD Student in Industrial Engineering & Management Sciences @ Northwestern University"
-  location         : "Technological Institute 2145 Sheridan Road, Room Unknown, Evanston, IL 60208"
-  employer         : "McCormick School of Engineering"
+  location         : "Room Unknown, Tech, Evanston"
+  employer         : "Northwestern Engineering"
   uri              : # URL
-  email            : "heyuanyao AT u DOT northwestern DOT edu" 
+  email            : "heyuanyao@u.northwestern.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
