@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "HY.jpg"
   name             : "Heyuan Yao 姚何塬"
   pronouns         : "He/His/Him"  
   bio              : "First Year PhD Student in Industrial Engineering & Management Sciences @ Northwestern University"
