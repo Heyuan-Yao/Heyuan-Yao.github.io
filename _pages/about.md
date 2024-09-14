@@ -45,6 +45,7 @@ Teaching & Teaching Assistantship
 - MATH UN2500, Analysis and Optimization (Undergrad. Lv), Fall 2022
 
 **City University of Hong Kong, Hong Kong SAR Sep. 2020 – May 2021**
+
 *PALSI Leader (Peer-Assisted Learning scheme using Supplemental Instruction)*
 
 -MA1201, Calculus and Basic Linear Algebra II, (Undergraduate level) Spring 2021
