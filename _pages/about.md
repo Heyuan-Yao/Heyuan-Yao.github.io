@@ -15,9 +15,9 @@ I am broadly interested in developing theory and methods for statistics, machine
 
 Education
 ------
-Columbia University in the City of New York, USA: Bachelor in Arts, Mathematics-Statistics, Sep. 2021 - May 2024
+*Columbia University in the City of New York, USA: Bachelor of Arts in Mathematics-Statistics, Sep. 2021 - May 2024*
 
-City University of Hong Kong, Hong Kong SAR: Bachelor in Science, Sep. 2019 - May 2024
+*City University of Hong Kong, Hong Kong SAR: Bachelor of Science in Computing Mathematics, Sep. 2019 - May 2024*
 
 
 Teaching & Teaching Assistantship
@@ -48,8 +48,8 @@ Teaching & Teaching Assistantship
 
 *PALSI Leader (Peer-Assisted Learning scheme using Supplemental Instruction)*
 
--MA1201, Calculus and Basic Linear Algebra II, (Undergraduate level) Spring 2021
+- MA1201, Calculus and Basic Linear Algebra II, (Undergraduate level) Spring 2021
 
--MA1200, Calculus and Basic Linear Algebra I, (Undergraduate level) Fall 2020
+- MA1200, Calculus and Basic Linear Algebra I, (Undergraduate level) Fall 2020
 
 
