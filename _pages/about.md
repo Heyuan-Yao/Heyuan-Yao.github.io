@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year Ph.D. in the Department of Industrial Engineering & Management Sciences at Northwestern University.
+I am a first-year Ph.D. student in the Department of Industrial Engineering & Management Sciences at Northwestern University.
 
-Till May 2024, I was in the Joint Bachelor’s Degree Program between City University of Hong Kong and Columbia University. I received my B.A. in Mathematics-Statistics from Coulmbia and B.Sc. in Computing Mathematics in CityU.
+Till May 2024, I was in the Joint Bachelor’s Degree Program between City University of Hong Kong and Columbia University. I received my B.A. in Mathematics-Statistics from Columbia and B.Sc. in Computing Mathematics from CityU.
 
-I am broadly interested in developing theory and methods for statistics, machine learning, probability and stochastics. 
+I am broadly interested in developing theory and methods for probability, statistics, and stochastics. 
 
 Education
 ------
