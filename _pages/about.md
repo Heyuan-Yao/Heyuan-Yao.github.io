@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the Department of Industrial Engineering & Management Sciences at Northwestern University.
+I am a second-year Ph.D. student in the Department of Industrial Engineering & Management Sciences at Northwestern University. Till May 2024, I was in the Joint Bachelor’s Degree Program between City University of Hong Kong and Columbia University. I received my B.A. in Mathematics-Statistics from Columbia and B.Sc. in Computing Mathematics from CityU.
 
-Till May 2024, I was in the Joint Bachelor’s Degree Program between City University of Hong Kong and Columbia University. I received my B.A. in Mathematics-Statistics from Columbia and B.Sc. in Computing Mathematics from CityU.
-
-I am broadly interested in developing theory and methods for probability, statistics, and stochastics. 
+I am broadly interested in developing theory and methods for probability and statistics. My current interests include 
+- Queueing theory, scheduling policies, multiserver/multiresource job system.
+- Decoupling, concentration inequalities for random processes.
+- Self-normalization, U-statistics.
 
 Education
 ------
@@ -35,14 +36,14 @@ Teaching & Teaching Assistantship
 **Northwestern University, IL, USA**
 
 - Teaching Assistant, Department of Industrial Engineering and Management Sciences
-<p>IEMS 315 Stochastic Models (Undergrad. Lv), Fall 2025 [<a href="Individual Report for Heyuan Yao (IEMS_315-0_01  Stochastic Models)_ae083803-227e-42f9-9080-a2033abbb70fen-US.pdf">Evaluation</a>]</p>
+<p>IEMS 315 Stochastic Models (Undergrad. Lv), Fall 2025 [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/Individual%20Report%20for%20Heyuan%20Yao%20(IEMS_315-0_01%20%20Stochastic%20Models)_ae083803-227e-42f9-9080-a2033abbb70fen-US.pdf">Evaluation</a>]</p>
 
 **Columbia University in the City of New York, NY, USA**
 - Teaching Assistant, Department of Mathematics
-<p>MATH UN2015, Linear Algebra and Probability, (Undergrad. Lv), Spring 2024 [<a href="MATHUN2015LinearAlgebraandProbabilitySpring2024-MATHUN2015_001_2024_1-LinearAlgebraandProbabilityMATHW2015_001_2024_1_183506_HeyuanYao.pdf">Evaluation</a>]</p>
-<p>MATH GU4032, Fourier Analysis (Grad. Lv), Fall 2023 [<a href="MATHGU4032_001_2023_3-FOURIERANALYSISMATHW4032_001_2023_3_170719_HeyuanYao.pdf">Evaluation</a>]</p>
-<p>MATH UN2500, Analysis and Optimization (Undergrad. Lv), Spring 2023 [<a href="MATHUN2500_002_2023_1-ANALYSISANDOPTIMIZATIONMATHV2500_002_2023_1_162640_HeyuanYao.pdf">Evaluation</a>]</p>
-<p>MATH UN2500, Analysis and Optimization (Undergrad. Lv), Fall 2022 [<a href="MATHUN2500_002_2022_3-ANALYSISANDOPTIMIZATIONMATHV2500_002_2022_3_150375_HeyuanYao.pdf">Evaluation</a>]</p>
+<p>MATH UN2015, Linear Algebra and Probability, (Undergrad. Lv), Spring 2024 [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/MATHUN2015LinearAlgebraandProbabilitySpring2024-MATHUN2015_001_2024_1-LinearAlgebraandProbabilityMATHW2015_001_2024_1_183506_HeyuanYao.pdf">Evaluation</a>]</p>
+<p>MATH GU4032, Fourier Analysis (Grad. Lv), Fall 2023 [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/MATHGU4032_001_2023_3-FOURIERANALYSISMATHW4032_001_2023_3_170719_HeyuanYao.pdf">Evaluation</a>]</p>
+<p>MATH UN2500, Analysis and Optimization (Undergrad. Lv), Spring 2023 [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/MATHUN2500_002_2023_1-ANALYSISANDOPTIMIZATIONMATHV2500_002_2023_1_162640_HeyuanYao.pdf">Evaluation</a>]</p>
+<p>MATH UN2500, Analysis and Optimization (Undergrad. Lv), Fall 2022 [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/MATHUN2500_002_2022_3-ANALYSISANDOPTIMIZATIONMATHV2500_002_2022_3_150375_HeyuanYao.pdf">Evaluation</a>]</p>
 
 - Teaching Assistant (Grader), Department of Statistics
 <p>STAT GU4207, Elementary Stochastic Processes (Grad. Lv), Spring 2024</p>
