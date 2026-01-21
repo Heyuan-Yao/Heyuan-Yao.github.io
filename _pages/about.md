@@ -5,10 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - /publications.html
 ---
 
-I am a first-year Ph.D. student in the Department of Industrial Engineering & Management Sciences at Northwestern University.
+I am a second-year Ph.D. student in the Department of Industrial Engineering & Management Sciences at Northwestern University.
 
 Till May 2024, I was in the Joint Bachelor’s Degree Program between City University of Hong Kong and Columbia University. I received my B.A. in Mathematics-Statistics from Columbia and B.Sc. in Computing Mathematics from CityU.
 
@@ -21,6 +20,15 @@ Education
 *Columbia University in the City of New York, NY, USA: Bachelor of Arts in Mathematics-Statistics, Sep. 2021 - May 2024*
 
 *City University of Hong Kong, Hong Kong SAR: Bachelor of Science in Computing Mathematics, Sep. 2019 - May 2024*
+
+Publication & Preprints
+------
+<h3><a href="https://www.sciencedirect.com/science/article/pii/S0167715225000215">Unbiased estimation of the Gini coefficient</a>, B. Baydil, V.H. de la Pena, H. Zou, H. Yao (2025)</h3>
+
+<h3><a href="https://arxiv.org/pdf/2509.14428">A Scalable Formula for the Moments of a Family of Self-Normalized Statistics</a>, H. Zou, H. Yao, V.H. de la Pena (2025)</h3>
+
+<h3><a href="https://arxiv.org/pdf/2512.19063">Sharp Decoupling Inequalities for the Variances and Second Moments of Sums of Dependent Random Variables</a>, V.H. de la Pena, H. Yao, D. Alemayehu (2025)</h3>
+
 
 
 Teaching & Teaching Assistantship
