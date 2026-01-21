@@ -35,7 +35,7 @@ Teaching & Teaching Assistantship
 **Northwestern University, IL, USA**
 
 - Teaching Assistant, Department of Industrial Engineering and Management Sciences
-<p>IEMS 315 Stochastic Models (Undergrad. Lv), Fall 2025 [<a href="Individual Report for Heyuan Yao (IEMS_315-0_01 Stochastic Models)_ae083803-227e-42f9-9080-a2033abbb70fen-US.pdf">Evaluation</a>]</p>
+<p>IEMS 315 Stochastic Models (Undergrad. Lv), Fall 2025 [<a href="_pages/Individual Report for Heyuan Yao (IEMS_315-0_01  Stochastic Models)_ae083803-227e-42f9-9080-a2033abbb70fen-US.pdf">Evaluation</a>]</p>
 
 **Columbia University in the City of New York, NY, USA**
 - Teaching Assistant, Department of Mathematics
