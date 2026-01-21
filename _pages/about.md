@@ -53,14 +53,12 @@ Teaching & Teaching Assistantship
 
 *Teaching Assistant, Department of Mathematics*
 
-<p>MATH UN2015, Linear Algebra and Probability, (Undergrad. Lv), Spring 2024<a href="MATHUN2015LinearAlgebraandProbabilitySpring2024-MATHUN2015_001_2024_1-LinearAlgebraandProbabilityMATHW2015_001_2024_1_183506_HeyuanYao.pdf">Evaluation</a></p>
+<p>MATH UN2015, Linear Algebra and Probability, (Undergrad. Lv), Spring 2024 [<a href="MATHUN2015LinearAlgebraandProbabilitySpring2024-MATHUN2015_001_2024_1-LinearAlgebraandProbabilityMATHW2015_001_2024_1_183506_HeyuanYao.pdf">Evaluation</a>]</p>
+<p>MATH GU4032, Fourier Analysis (Grad. Lv), Fall 2023 [<a href="MATHGU4032_001_2023_3-FOURIERANALYSISMATHW4032_001_2023_3_170719_HeyuanYao.pdf">Evaluation</a>]</p>
+<p>MATH UN2500, Analysis and Optimization (Undergrad. Lv), Spring 2023 [<a href="_teaching/MATHUN2500_002_2023_1-ANALYSISANDOPTIMIZATIONMATHV2500_002_2023_1_162640_HeyuanYao.pdf">Evaluation</a>]</p>
+<p>MATH UN2500, Analysis and Optimization (Undergrad. Lv), Fall 2022 [<a href="_teaching/MATHUN2500_002_2022_3-ANALYSISANDOPTIMIZATIONMATHV2500_002_2022_3_150375_HeyuanYao.pdf">Evaluation</a>]</p>
 
 
-- MATH GU4032, Fourier Analysis (Grad. Lv), Fall 2023
-
-- MATH UN2500, Analysis and Optimization (Undergrad. Lv), Spring 2023
-
-- MATH UN2500, Analysis and Optimization (Undergrad. Lv), Fall 2022
 
 **City University of Hong Kong, Hong Kong SAR Sep. 2020 – May 2021**
 
