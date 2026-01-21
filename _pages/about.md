@@ -25,6 +25,7 @@ Education
 Teaching & Teaching Assistantship
 ------
 **Northwestern University, IL, USA**
+
 *Teaching Assistant (Grader), Department of Industrial Engineering and Management Sciences*
 
 - IEMS 315 Stochastic Models (Undergrad. Lv), Fall 2025
