@@ -15,13 +15,20 @@ I am broadly interested in developing theory and methods for probability, statis
 
 Education
 ------
-*Columbia University in the City of New York, USA: Bachelor of Arts in Mathematics-Statistics, Sep. 2021 - May 2024*
+*Northwestern University, IL, USA: Ph.D. in Industrial Engineering and Management Sciences, Sep. 2024 - Now*
+
+*Columbia University in the City of New York, NY, USA: Bachelor of Arts in Mathematics-Statistics, Sep. 2021 - May 2024*
 
 *City University of Hong Kong, Hong Kong SAR: Bachelor of Science in Computing Mathematics, Sep. 2019 - May 2024*
 
 
 Teaching & Teaching Assistantship
 ------
+**Northwestern University, IL, USA**
+*Teaching Assistant (Grader), Department of Industrial Engineering and Management Sciences*
+
+- IEMS 315 Stochastic Models (Undergrad. Lv), Fall 2025
+
 **Columbia University in the City of New York, NY, USA**
 
 *Teaching Assistant (Grader), Department of Statistics*
