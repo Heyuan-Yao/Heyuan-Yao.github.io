@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /publications.html
 ---
 
 I am a first-year Ph.D. student in the Department of Industrial Engineering & Management Sciences at Northwestern University.
