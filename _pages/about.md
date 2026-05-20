@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the Department of Industrial Engineering & Management Sciences at Northwestern University. I am fortunately advised by Prof. <a href="https://isaacg1.github.io/">Izzy Grosof</a>. Till May 2024, I was in the Joint Bachelor’s Degree Program between City University of Hong Kong and Columbia University, where I was advised by Prof. <a href="https://www.columbia.edu/~vhd1/">Victor H. de la Peña</a> and Prof. <a href="https://www.math.columbia.edu/~ik/"> </a>. I received my B.A. in Mathematics-Statistics from Columbia and B.Sc. in Computing Mathematics from CityU.
+I am a second-year Ph.D. student in the Department of Industrial Engineering & Management Sciences at Northwestern University. I am fortunately advised by Prof. <a href="https://isaacg1.github.io/">Izzy Grosof</a>. Till May 2024, I was in the Joint Bachelor’s Degree Program between City University of Hong Kong and Columbia University, where I was advised by Prof. <a href="https://www.columbia.edu/~vhd1/">Victor H. de la Peña</a> and Prof. <a href="https://www.math.columbia.edu/~ik/">Ioannis Karatzas</a>. I received my B.A. in Mathematics-Statistics from Columbia and B.Sc. in Computing Mathematics from CityU.
 
 I am broadly interested in developing theory and methods for probability and statistics. My current interests include 
 - Queueing theory, scheduling policies, multiserver/multiresource job system.
