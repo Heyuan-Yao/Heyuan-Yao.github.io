@@ -30,7 +30,7 @@ Publication & Preprints
 
 <h4><a href="https://arxiv.org/pdf/2512.19063">Sharp Decoupling Inequalities for the Variances and Second Moments of Sums of Dependent Random Variables</a>, V.H. de la Pena, H. Yao, D. Alemayehu (2025)</h4>
 
-<h4><a href="">Throughput-Optimal Multiresource-Job Scheduling with Continuous Requirement Distribution </a>, V.H. de la Pena, H. Yao, D. Alemayehu (2026)</h4>
+<h4><a href="">Throughput-Optimal Multiresource-Job Scheduling with Continuous Requirement Distribution </a>, H. Yao, W. Kowalik, I. Grosof (2026)</h4>
 
 
 Teaching & Teaching Assistantship
