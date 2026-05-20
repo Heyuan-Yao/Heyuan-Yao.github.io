@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the Department of Industrial Engineering & Management Sciences at Northwestern University. Till May 2024, I was in the Joint Bachelor’s Degree Program between City University of Hong Kong and Columbia University. I received my B.A. in Mathematics-Statistics from Columbia and B.Sc. in Computing Mathematics from CityU.
+I am a second-year Ph.D. student in the Department of Industrial Engineering & Management Sciences at Northwestern University. I am fortunately advised by Prof. <a href="https://isaacg1.github.io/">Izzy Grosof</a>. Till May 2024, I was in the Joint Bachelor’s Degree Program between City University of Hong Kong and Columbia University, where I was advised by Prof. <a href="https://www.columbia.edu/~vhd1/">Victor H. de la Peña</a> and Prof. <a href="https://www.math.columbia.edu/~ik/"> </a>. I received my B.A. in Mathematics-Statistics from Columbia and B.Sc. in Computing Mathematics from CityU.
 
 I am broadly interested in developing theory and methods for probability and statistics. My current interests include 
 - Queueing theory, scheduling policies, multiserver/multiresource job system.
@@ -24,11 +24,13 @@ Education
 
 Publication & Preprints
 ------
-<h3><a href="https://www.sciencedirect.com/science/article/pii/S0167715225000215">Unbiased estimation of the Gini coefficient</a>, B. Baydil, V.H. de la Pena, H. Zou, H. Yao (2025)</h3>
+<h4><a href="https://www.sciencedirect.com/science/article/pii/S0167715225000215">Unbiased estimation of the Gini coefficient</a>, B. Baydil, V.H. de la Pena, H. Zou, H. Yao (2025)</h4>
 
-<h3><a href="https://arxiv.org/pdf/2509.14428">A Scalable Formula for the Moments of a Family of Self-Normalized Statistics</a>, H. Zou, H. Yao, V.H. de la Pena (2025)</h3>
+<h4><a href="https://www.sciencedirect.com/science/article/pii/S0167715226001185">A Scalable Formula for the Moments of a Family of Self-Normalized Statistics</a>, H. Zou, H. Yao, V.H. de la Pena (2026)</h4>
 
-<h3><a href="https://arxiv.org/pdf/2512.19063">Sharp Decoupling Inequalities for the Variances and Second Moments of Sums of Dependent Random Variables</a>, V.H. de la Pena, H. Yao, D. Alemayehu (2025)</h3>
+<h4><a href="https://arxiv.org/pdf/2512.19063">Sharp Decoupling Inequalities for the Variances and Second Moments of Sums of Dependent Random Variables</a>, V.H. de la Pena, H. Yao, D. Alemayehu (2025)</h4>
+
+<h4><a href="">Throughput-Optimal Multiresource-Job Scheduling with Continuous Requirement Distribution </a>, V.H. de la Pena, H. Yao, D. Alemayehu (2026)</h4>
 
 
 Teaching & Teaching Assistantship
@@ -36,6 +38,7 @@ Teaching & Teaching Assistantship
 **Northwestern University, IL, USA**
 
 - Teaching Assistant, Department of Industrial Engineering and Management Sciences
+<p>IEMS 304 Statistical Learning for Data Analysis (Undergrad. Lv), Spring 2026 </p>
 <p>IEMS 315 Stochastic Models (Undergrad. Lv), Fall 2025 [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/Individual%20Report%20for%20Heyuan%20Yao%20(IEMS_315-0_01%20%20Stochastic%20Models)_ae083803-227e-42f9-9080-a2033abbb70fen-US.pdf">Evaluation</a>]</p>
 
 **Columbia University in the City of New York, NY, USA**
