@@ -36,7 +36,7 @@ Teaching & Teaching Assistantship
 *Teaching Assistant, Department of Industrial Engineering and Management Sciences*
 
 <h4>IEMS 304 Statistical Learning for Data Analysis (Undergrad. Lv), Spring 2026 [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/Sec_1_Individual Report for Heyuan Yao (IEMS_304-0_21  Statistical Learning for Data)_0504a65e-e0bf-495a-96ad-882528105134en-US.pdf">Session 1 Evaluation</a>] [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/Sec_2_Individual Report for Heyuan Yao (IEMS_304-0_22  Statistical Learning for Data)_beb4d237-21c9-4909-9ebc-c95e8edb28e5en-US.pdf">Session 2 Evaluation</a>]</h4>
-<h4>IEMS 315 Stochastic Models (Undergrad. Lv), Fall 2025 [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/Individual%20Report%20for%20Heyuan%20Yao%20(IEMS_315-0_01%20%20Stochastic%20Models)_ae083803-227e-42f9-9080-a2033abbb70fen-US.pdf">Evaluation</a>] [**Outstanding Teaching Assistant Award Honorable mention in BSIE Program in AY 25/26**]</h4>
+<h4>IEMS 315 Stochastic Models (Undergrad. Lv), Fall 2025 [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/Individual%20Report%20for%20Heyuan%20Yao%20(IEMS_315-0_01%20%20Stochastic%20Models)_ae083803-227e-42f9-9080-a2033abbb70fen-US.pdf">Evaluation</a>] [_Outstanding Teaching Assistant Award Honorable mention in BSIE Program in AY 25/26_]</h4>
 
 **Columbia University in the City of New York, NY, USA**
 
