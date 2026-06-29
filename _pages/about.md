@@ -22,12 +22,16 @@ Education
 
 *City University of Hong Kong, Hong Kong SAR: Bachelor of Science in Computing Mathematics, Sep. 2019 - May 2024*
 
-Publication & Preprints
+Publications
 ------
-<h4><a href="https://www.sciencedirect.com/science/article/pii/S0167715225000215">Unbiased estimation of the Gini coefficient</a>, B. Baydil, V.H. de la Pena, H. Zou, H. Yao (2025)</h4>
-<h4><a href="https://www.sciencedirect.com/science/article/pii/S0167715226001185">A Scalable Formula for the Moments of a Family of Self-Normalized Statistics</a>, H. Zou, H. Yao, V.H. de la Pena (2026)</h4>
-<h4><a href="https://arxiv.org/pdf/2512.19063">Sharp Decoupling Inequalities for the Variances and Second Moments of Sums of Dependent Random Variables</a>, V.H. de la Pena, H. Yao, D. Alemayehu (2025)</h4>
-<h4><a href="https://arxiv.org/abs/2605.21715">Throughput-Optimal Multiresource-Job Scheduling with Continuous Requirement Distribution </a>, H. Yao, W. Kowalik, I. Grosof (2026)</h4>
+<h4><a href="https://arxiv.org/pdf/2512.19063">Sharp Decoupling Inequalities for the Variances and Second Moments of Sums of Dependent Random Variables</a>, V.H. de la Peña, H. Yao, D. Alemayehu, V.K. de la Peña (2026), Electronic Communication in Probability.</h4>
+<h4> <a href="https://isaacg1.github.io/assets/scaling-cycles-short.pdf">Non-preemptive Datacenter Scheduling via Scaling Cycles</a>, Z. Chen, H. Yao, I. Grosof, B. Berg (2026), The MAMA workshop at ACM SIGMETRICS 2026. </h4>
+<h4><a href="https://www.sciencedirect.com/science/article/pii/S0167715226001185">A Scalable Formula for the Moments of a Family of Self-Normalized Statistics</a>, H. Zou, H. Yao, V.H. de la Peña (2026), Statistics & Probability Letters. </h4>
+<h4><a href="https://www.sciencedirect.com/science/article/pii/S0167715225000215">Unbiased estimation of the Gini coefficient</a>, B. Baydil, V.H. de la Peña, H. Zou, H. Yao (2025), Statistics & Probability Letters. </h4>
+
+Preprints
+------
+<h4><a href="https://arxiv.org/abs/2605.21715">Throughput-Optimal Multiresource-Job Scheduling with Continuous Requirement Distribution </a>, H. Yao, W. Kowalik, I. Grosof (2026), Submitted. </h4>
 
 Teaching & Teaching Assistantship
 ------
@@ -35,7 +39,7 @@ Teaching & Teaching Assistantship
 
 *Teaching Assistant, Department of Industrial Engineering and Management Sciences*
 
-<h4>IEMS 304 Statistical Learning for Data Analysis (Undergrad. Lv), Spring 2026 [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_teaching/Sec_1_Individual Report for Heyuan Yao (IEMS_304-0_21  Statistical Learning for Data)_0504a65e-e0bf-495a-96ad-882528105134en-US.pdf">Session 1 Evaluation</a>] [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_teaching/Sec_2_Individual Report for Heyuan Yao (IEMS_304-0_22  Statistical Learning for Data)_beb4d237-21c9-4909-9ebc-c95e8edb28e5en-US.pdf">Session 2 Evaluation</a>]</h4>
+<h4>IEMS 304 Statistical Learning for Data Analysis (Undergrad. Lv), Spring 2026 [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/Sec_1_Individual Report for Heyuan Yao (IEMS_304-0_21  Statistical Learning for Data)_0504a65e-e0bf-495a-96ad-882528105134en-US.pdf">Session 1 Evaluation</a>] [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/Sec_2_Individual Report for Heyuan Yao (IEMS_304-0_22  Statistical Learning for Data)_beb4d237-21c9-4909-9ebc-c95e8edb28e5en-US.pdf">Session 2 Evaluation</a>]</h4>
 <h4>IEMS 315 Stochastic Models (Undergrad. Lv), Fall 2025 [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/Individual%20Report%20for%20Heyuan%20Yao%20(IEMS_315-0_01%20%20Stochastic%20Models)_ae083803-227e-42f9-9080-a2033abbb70fen-US.pdf">Evaluation</a>] [Outstanding Teaching Assistant Award Honorable Mention in BSIE Program in AY 25/26]</h4>
 
 **Columbia University in the City of New York, NY, USA**
