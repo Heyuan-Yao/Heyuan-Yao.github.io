@@ -24,7 +24,7 @@ Education
 
 Publications
 ------
-<h4><a href="https://arxiv.org/pdf/2512.19063">Sharp Decoupling Inequalities for the Variances and Second Moments of Sums of Dependent Random Variables</a>, V.H. de la Peña, H. Yao, D. Alemayehu, V.K. de la Peña (2026), Electronic Communication in Probability.</h4>
+<h4><a href="https://arxiv.org/pdf/2512.19063">Sharp Decoupling Inequalities for the Variances and Second Moments of Sums of Dependent Random Variables</a>, V.H. de la Peña, H. Yao, D. Alemayehu, V.K. de la Peña (2026), Electronic Communications in Probability.</h4>
 <h4> <a href="https://isaacg1.github.io/assets/scaling-cycles-short.pdf">Non-preemptive Datacenter Scheduling via Scaling Cycles</a>, Z. Chen, H. Yao, I. Grosof, B. Berg (2026), The MAMA workshop at ACM SIGMETRICS 2026. </h4>
 <h4><a href="https://www.sciencedirect.com/science/article/pii/S0167715226001185">A Scalable Formula for the Moments of a Family of Self-Normalized Statistics</a>, H. Zou, H. Yao, V.H. de la Peña (2026), Statistics & Probability Letters. </h4>
 <h4><a href="https://www.sciencedirect.com/science/article/pii/S0167715225000215">Unbiased estimation of the Gini coefficient</a>, B. Baydil, V.H. de la Peña, H. Zou, H. Yao (2025), Statistics & Probability Letters. </h4>
