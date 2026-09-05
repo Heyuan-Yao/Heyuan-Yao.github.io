@@ -10,7 +10,8 @@ redirect_from:
 I am a second-year Ph.D. student in the Department of Industrial Engineering & Management Sciences at Northwestern University. I am fortunately advised by Prof. <a href="https://isaacg1.github.io/">Izzy Grosof</a>. Till May 2024, I was in the Joint Bachelor’s Degree Program between City University of Hong Kong and Columbia University, where I was advised by Prof. <a href="https://www.columbia.edu/~vhd1/">Victor H. de la Peña</a> and Prof. <a href="https://www.math.columbia.edu/~ik/">Ioannis Karatzas</a>. I received my B.A. in Mathematics-Statistics from Columbia and B.Sc. in Computing Mathematics from CityU.
 
 I am broadly interested in developing theory and methods for probability and statistics. My current interests include 
-- Queueing theory, scheduling policies, multiserver/multiresource job system.
+- Queueing theory, scheduling policies.
+- Multiserver-/Multiresource- job (MSJ/MRJ) systems and cacheing systems, with applications to model computing systems, including datacenters, and LLM serving systems.
 - Decoupling, concentration inequalities for random processes.
 - Self-normalization, U-statistics.
 
@@ -31,6 +32,7 @@ Publications
 
 Preprints
 ------
+<h4><a href="https://arxiv.org/abs/2609.02027">Multi-Turn LLM Conversations under the Least-Recently-Used Policy: Mean-Field Asymptotics and Hit Ratio Approximation </a>, H. Yao, C. Gao, Y. Lyu, I. Grosof, D. Simchi-Levi (2026), Workshop Version Submitted. </h4>
 <h4><a href="https://arxiv.org/abs/2605.21715">Throughput-Optimal Multiresource-Job Scheduling with Continuous Requirement Distribution </a>, H. Yao, W. Kowalik, I. Grosof (2026), Submitted. </h4>
 
 Teaching & Teaching Assistantship
@@ -39,6 +41,7 @@ Teaching & Teaching Assistantship
 
 *Teaching Assistant, Department of Industrial Engineering and Management Sciences*
 
+<h4>IEMS 315 Stochastic Models (Undergrad. Lv), Fall 2026 </h4>
 <h4>IEMS 304 Statistical Learning for Data Analysis (Undergrad. Lv), Spring 2026 [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/SP26IEMS304Sec1.pdf">Session 1 Evaluation</a>] [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/SP26IEMS304Sec2.pdf">Session 2 Evaluation</a>]</h4>
 <h4>IEMS 315 Stochastic Models (Undergrad. Lv), Fall 2025 [<a href="https://github.com/Heyuan-Yao/Heyuan-Yao.github.io/blob/master/_pages/Individual%20Report%20for%20Heyuan%20Yao%20(IEMS_315-0_01%20%20Stochastic%20Models)_ae083803-227e-42f9-9080-a2033abbb70fen-US.pdf">Evaluation</a>] [Outstanding Teaching Assistant Award Honorable Mention in BSIE Program in AY 25/26]</h4>
 
