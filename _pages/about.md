@@ -35,6 +35,13 @@ Preprints
 <h4><a href="https://arxiv.org/abs/2609.02027">Multi-Turn LLM Conversations under the Least-Recently-Used Policy: Mean-Field Asymptotics and Hit Ratio Approximation </a>, H. Yao, C. Gao, Y. Lyu, I. Grosof, D. Simchi-Levi (2026), Workshop Version Submitted. </h4>
 <h4><a href="https://arxiv.org/abs/2605.21715">Throughput-Optimal Multiresource-Job Scheduling with Continuous Requirement Distribution </a>, H. Yao, W. Kowalik, I. Grosof (2026), Submitted. </h4>
 
+Some Ideas
+------
+**There are some wonderful ideas about multiserver-job (MSJ) and multiresource-job (MRJ) scheduling policies, which you can find on
+<a href="https://isaacg1.github.io/project-ideas/">the website of my advisor, Izzy Grosof</a>.**
+
+In addition, I have some ideas 
+
 Teaching & Teaching Assistantship
 ------
 **Northwestern University, IL, USA**
