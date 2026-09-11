@@ -41,11 +41,11 @@ Last updated: Sep. 11, 2026.
 
 **You can find several exciting open problems on multiserver-job (MSJ) and multiresource-job (MRJ) scheduling on <a href="https://isaacg1.github.io/project-ideas/">my advisor Izzy Grosof’s project ideas page</a>.** Some ideas that I am working on or actively pursuing are listed below. If you are interested in any of the open projects described here, please feel free to contact either Izzy or me.
 
-<h4>[Ongoing] MSJ with varying resource requirements</h4>
+<h3>[Ongoing] MSJ with varying resource requirements</h3>
 
 I am working on an MSJ scheduling problem in which each job’s resource requirement varies over time. This setting captures an important feature of modern LLM serving systems: a conversation's memory footprint can jump when a new prompt arrives during prefilling and then grow token by token (as in SGLang) or block by block (as in vLLM) during decoding. I am working on this project with Izzy and <a href="https://chutonggao.github.io/">Chutong Gao</a>.
 
-<h4>[Actively Pursuing] Can First-Fit Be Throughput-Optimal?</h4>
+<h3>[Actively Pursuing] Can First-Fit Be Throughput-Optimal?</h3>
 
 In our <a href="https://arxiv.org/abs/2605.21715">recent work</a> on multiresource-job (MRJ) scheduling, we study two special settings of the multiserver-job (MSJ) model. In both settings, service times are i.i.d. exponential, while job resource requirements are drawn from either a continuous symmetric distribution or a distribution with a decreasing density. In our numerical experiments, First-Fit achieves mean response times remarkably close to our K-Discretized Efficient MaxWeight (K-EMW) family of policies, a class of computationally lightweight policies that we prove to be throughput-optimal. We conjecture that First-Fit is also throughput-optimal in both settings. Near the stability boundary, First-Fit may not match the mean-response-time performance of K-EMW, but we believe that it can still stabilize the system under every stabilizable load.
 
@@ -57,7 +57,7 @@ ps: One might question whether assuming identically distributed service times fo
 
 In addition, I am interested in designing and analyzing caching policies for modern LLM serving systems. Our <a href="https://arxiv.org/abs/2609.02027">recent work</a> develops a mean-field approximation for the hit ratio of the widely used Least Recently Used (LRU) policy. Our theoretically-motivated estimator achieves surprisingly low errors in real LLM serving experiments, particularly at large cache capacities, via tensor parallelism across multiple GPUs or NPUs. Several ongoing projects and research ideas building on this work are described below. If you are interested in any of the open directions on this page that are not yet ongoing projects, please feel free to contact Izzy or me, or my collaborator, <a href="mailto:ylyuad@connect.ust.hk">Yuan Lyu</a>, at HKUST.
 
-<h4> [Ongoing] Mixtures of Multiple Workflows under LRU: </h4>
+<h3> [Ongoing] Mixtures of Multiple Workflows under LRU: </h3>
 
 Our mean-field analysis shows that the eviction age of any tagged conversation converges to a deterministic characteristic time governed jointly by prompt-arrival dynamics and workload statistical structure. However, when a prefiller handles multiple workflows with substantially different workload characteristics and arrival dynamics, standard LRU assigns them essentially the same eviction age, as long as their next prompts do not arrive before eviction.  
 
@@ -65,7 +65,7 @@ Consider two workflows sharing a prefiller with a resulting characteristic evict
 
 The answer is YES. We have developed a workflow-aware LRU policy that allocates cache capacity across workflows according to their distinct statistical characteristics. We have proved that this policy achieves a higher hit ratio than standard LRU, and we are currently evaluating its empirical performance. I am pursuing this project with Chutong Gao, Yuan Lyu, and <a href="https://www.linkedin.com/in/ziyuanwang1031/">Ziyuan Wang</a>.
 
-<h4> [Actively Pursuing] Segmented LRU (SLRU)'s Mean-Field Performance and Hit Ratio Optimization:</h4>
+<h3> [Actively Pursuing] Segmented LRU (SLRU)'s Mean-Field Performance and Hit Ratio Optimization:</h3>
 
 SGLang now offers Segmented LRU (SLRU) as a cache-management option. Unlike standard LRU, SLRU partitions the KV cache in HBM into two segments: a protected (P) segment and a probationary (R) segment. Each segment maintains its own LRU ordering. A newly inserted KV block is placed at the most-recently-used (MRU) end of the R segment. Once the block is reused, it is promoted to the MRU end of the P segment. When a block is displaced from the P segment, it is demoted to the MRU end of the R segment, giving it another opportunity to be reused before it is eventually evicted from HBM.
 
@@ -75,7 +75,7 @@ Can we extend our mean-field analysis to show that the eviction ages of the two 
 
 An alternative performance analysis is to follow the approach of Gast and Van Houdt: assume that the two eviction ages are deterministic and then use Little’s law and the capacity constraints to solve for their values, thereby approximating the hit ratio of SLRU. I have confirmed the feasibility of this approach for our model. Specifically, we can tag the group of KV blocks generated at turn-j and assign it a state. By characterizing its state transitions and expected sojourn time in each state, we can calculate how long, in expectation, the block group resides in each segment over its lifetime, up to its eventual eviction after the conversation terminates. These expected residence times can then be used to formulate the capacity equations for the two segments. One remaining theoretical question is whether the resulting fixed-point equations always admit a unique pair of eviction ages. I have not yet established such a uniqueness result, and I warmly welcome researchers who are interested in working with me on this problem.
 
-<h4>[Actively Pursuing] Queueing Networks for Hierarchical KV-Cache Storage </h4>
+<h3>[Actively Pursuing] Queueing Networks for Hierarchical KV-Cache Storage </h3>
 
 As multi-turn conversations and agentic workflows become increasingly common in LLM applications, the limited HBM capacity of GPUs and NPUs is often insufficient to support efficient KV-cache reuse under high load. A natural solution is to introduce lower-capacity-cost storage tiers. Both vLLM and SGLang support mechanisms that use CPU DRAM as a lower tier beneath HBM, while <a href="https://arxiv.org/abs/2407.00079">Mooncake</a> goes further by incorporating distributed CPU DRAM and SSD resources to support KV-cache reuse at a much larger scale.
 
