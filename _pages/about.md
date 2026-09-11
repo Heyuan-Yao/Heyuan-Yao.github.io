@@ -37,7 +37,7 @@ Preprints
 
 Some Project Ideas and Ongoing Projects
 ------
-Last updated: Sep. 9, 2026, a great person's 50th death anniversary. Also the birthday of my friend <a href="https://www.linkedin.com/in/andrewjin09/">Andrew Jin<a>.
+Last updated: Sep. 11, 2026.
 
 **You can find several exciting open problems on multiserver-job (MSJ) and multiresource-job (MRJ) scheduling on <a href="https://isaacg1.github.io/project-ideas/">my advisor Izzy Grosof’s project ideas page</a>.** Some ideas that I am working on or actively pursuing are listed below. If you are interested in any of the open projects described here, please feel free to contact either Izzy or me.
 
