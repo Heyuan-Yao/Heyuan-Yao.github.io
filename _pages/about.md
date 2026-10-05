@@ -63,7 +63,7 @@ Our mean-field analysis shows that the eviction age of any tagged conversation c
 
 Consider two workflows sharing a prefiller with a resulting characteristic eviction age of 120s. Suppose the turn interarrival times of the two workflows are exponential with means of 20 and 200 seconds, respectively. Do we really need to retain conversations from the first workflow for the full 120 seconds? Can we instead allocate cache capacity across workflows to deliberately create different characteristic eviction ages?
 
-The answer is YES. We have developed a workflow-aware LRU policy that allocates cache capacity across workflows according to their distinct statistical characteristics. We have proved that this policy achieves a higher hit ratio than standard LRU, and we are currently evaluating its empirical performance. I am pursuing this project with Chutong Gao, Yuan Lyu, and <a href="https://www.linkedin.com/in/ziyuanwang1031/">Ziyuan Wang</a>.
+The answer is YES. We have developed a workflow-aware LRU policy that allocates cache capacity across workflows according to their distinct statistical characteristics. We have proved that this policy achieves a higher hit ratio than standard LRU, and we are currently evaluating its empirical performance. I am pursuing this project with Chutong Gao, Yuan Lyu, and David Simchi-Levi.
 
 <h3> [Actively Pursuing] Segmented LRU (SLRU)'s Mean-Field Performance and Hit Ratio Optimization:</h3>
 
