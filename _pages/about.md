@@ -11,7 +11,7 @@ I am a third-year Ph.D. student in the Department of Industrial Engineering & Ma
 
 I am broadly interested in developing theory and methods for probability and statistics. My current interests include 
 - Queueing theory, scheduling policies, and caching policies.
-- Multiserver-/Multiresource- job (MSJ/MRJ) systems and caching systems, with applications to model computing systems, including datacenters, and LLM serving systems.
+- Multiserver-/Multiresource- job (MSJ/MRJ) systems and caching systems, with applications to modern computing systems, including datacenters, and LLM serving systems.
 - Decoupling, concentration inequalities for random processes.
 - Self-normalization, U-statistics.
 
