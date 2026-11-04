@@ -25,42 +25,39 @@ Education
 
 Publications
 ------
-<h4><a href="https://arxiv.org/abs/2609.02027">Multi-Turn LLM Conversations under the Least-Recently-Used Policy: Mean-Field Asymptotics and Hit Ratio Approximation </a>, H. Yao, C. Gao, Y. Lyu, I. Grosof, D. Simchi-Levi, NeurIPS 2026 Second Workshop on MLxOR. [Full version in preparation] </h4>
-<h4><a href="https://arxiv.org/pdf/2512.19063">Sharp Decoupling Inequalities for the Variances and Second Moments of Sums of Dependent Random Variables</a>, V.H. de la Peña, H. Yao, D. Alemayehu, V.K. de la Peña (2026), Electronic Communications in Probability.</h4>
-<h4> <a href="https://isaacg1.github.io/assets/scaling-cycles-short.pdf">Non-preemptive Datacenter Scheduling via Scaling Cycles</a>, Z. Chen, H. Yao, I. Grosof, B. Berg (2026), The MAMA workshop at ACM SIGMETRICS 2026. [Full version in preparation] </h4>
-<h4><a href="https://www.sciencedirect.com/science/article/pii/S0167715226001185">A Scalable Formula for the Moments of a Family of Self-Normalized Statistics</a>, H. Zou, H. Yao, V.H. de la Peña (2026), Statistics & Probability Letters. </h4>
-<h4><a href="https://www.sciencedirect.com/science/article/pii/S0167715225000215">Unbiased estimation of the Gini coefficient</a>, B. Baydil, V.H. de la Peña, H. Zou, H. Yao (2025), Statistics & Probability Letters. </h4>
+<p><a href="https://arxiv.org/abs/2609.02027">Multi-Turn LLM Conversations under the Least-Recently-Used Policy: Mean-Field Asymptotics and Hit Ratio Approximation </a>, H. Yao, C. Gao, Y. Lyu, I. Grosof, D. Simchi-Levi, NeurIPS 2026 Second Workshop on MLxOR. [Full version in preparation] </p>
+<p><a href="https://arxiv.org/pdf/2512.19063">Sharp Decoupling Inequalities for the Variances and Second Moments of Sums of Dependent Random Variables</a>, V.H. de la Peña, H. Yao, D. Alemayehu, V.K. de la Peña (2026), Electronic Communications in Probability.</p>
+<p> <a href="https://isaacg1.github.io/assets/scaling-cycles-short.pdf">Non-preemptive Datacenter Scheduling via Scaling Cycles</a>, Z. Chen, H. Yao, I. Grosof, B. Berg (2026), The MAMA workshop at ACM SIGMETRICS 2026. [Full version in preparation] </p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0167715226001185">A Scalable Formula for the Moments of a Family of Self-Normalized Statistics</a>, H. Zou, H. Yao, V.H. de la Peña (2026), Statistics & Probability Letters. </p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0167715225000215">Unbiased estimation of the Gini coefficient</a>, B. Baydil, V.H. de la Peña, H. Zou, H. Yao (2025), Statistics & Probability Letters. </p>
 
 Preprints
 ------
-<h4><a href="https://arxiv.org/abs/2605.21715">Throughput-Optimal Multiresource-Job Scheduling with Continuous Requirement Distribution </a>, H. Yao, W. Kowalik, I. Grosof (2026), Submitted. </h4>
+<p><a href="https://arxiv.org/abs/2605.21715">Throughput-Optimal Multiresource-Job Scheduling with Continuous Requirement Distribution </a>, H. Yao, W. Kowalik, I. Grosof (2026), Submitted. </p>
 
 
 Talks
 ------
-<h4>Scheduling and Admission with Static and Varying Continuous Resource Requirements</h4>
-<p>
-  2027 Joint Mathematics Meeting, AMS Special Session on Solving Probability or Random Process Problems with Applications, II, Jan 2027 (Upcoming). 
-</p>
+<p>Scheduling and Admission with Static and Varying Continuous Resource Requirements</p>
+<h4>2027 Joint Mathematics Meeting, AMS Special Session on Solving Probability or Random Process Problems with Applications, II, Jan 2027 (Upcoming). </h4>
 
-<h4>Predicting and Optimizing KV Cache Hit Ratios in Multi-Turn LLM Serving</h4>
-<p>
-  The 2027 ASCI International Conference, Jan 2027 (Upcoming). Invited by <a href="https://yaoshengxu.github.io/">Yaosheng Xu<a> (Thank you, Yaosheng!).
-</p>
+<p>Predicting and Optimizing KV Cache Hit Ratios in Multi-Turn LLM Serving</p>
+<h4>The 2027 ASCI International Conference, Jan 2027 (Upcoming). Invited by <a href="https://yaoshengxu.github.io/">Yaosheng Xu<a> (Thank you, Yaosheng!).</h4>
 
-<h4>Multiserver-job (MSJ) System with Varying Requirement Distribution</h4>
-<p>
-  INFORMS Annual Meeting, Nov 2026. Invited by <a href="https://sites.gatech.edu/hayriye-ayhan/">Hayriye Ayhan<a> (Thank you, Hayriye!).
-  <a href="" target="_blank">[Slides PDF]</a>
-  <a href="" download>[Download PPT]</a>
-</p>
+<p>Multiserver-job (MSJ) System with Varying Requirement Distribution</p>
+<h4>INFORMS Annual Meeting, Nov 2026. Invited by <a href="https://sites.gatech.edu/hayriye-ayhan/">Hayriye Ayhan<a> (Thank you, Hayriye!).
+  <!-- <a href="" target="_blank">[Slides PDF]</a> -->
+  <!-- <a href="" download>[Download PPT]</a> -->
+</h4>
 
 <h4>Multiserver-job (MSJ) Scheduling with Continuous Requirement Distribution</h4>
 <p>
   INFORMS Annual Meeting, Oct 2025. Invited by Izzy Grosof (Thank you, Izzy!).
-  <a href="" target="_blank">[Slides PDF]</a>
-  <a href="" download>[Download PPT]</a>
-</p>
+  <!-- <a href="" target="_blank">[Slides PDF]</a>
+  <a href="" download>[Download PPT]</a> -->
+  Related talk slides made and presented by Izzy in <a href="https://isaacg1.github.io/assets/cont-msj-cmu.pptx">CMU</a>,  <a href="https://isaacg1.github.io/assets/cont-msj-sn-26.pptx">Stochastic Network 2026</a>, and the <a href = "https://isaacg1.github.io/assets/cont-msj-gcasr.pptx">Greater Chicago Area Systems Research Workshop (GCASR)</a>.
+</h4>
+
 
 Some Project Ideas and Ongoing Projects
 ------
