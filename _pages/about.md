@@ -42,21 +42,19 @@ Talks
 <h4>2027 Joint Mathematics Meeting, AMS Special Session on Solving Probability or Random Process Problems with Applications, II, Jan 2027 (Upcoming). </h4>
 
 <p>Predicting and Optimizing KV Cache Hit Ratios in Multi-Turn LLM Serving</p>
-<h4>The 2027 ASCI International Conference, Jan 2027 (Upcoming). Invited by <a href="https://yaoshengxu.github.io/">Yaosheng Xu<a> (Thank you, Yaosheng!).</h4>
+<h4>The 2027 ASCI International Conference, Jan 2027 (Upcoming). Invited by <a href="https://yaoshengxu.github.io/">Yaosheng Xu</a> (Thank you, Yaosheng!).</h4>
 
 <p>Multiserver-job (MSJ) System with Varying Requirement Distribution</p>
-<h4>INFORMS Annual Meeting, Nov 2026. Invited by <a href="https://sites.gatech.edu/hayriye-ayhan/">Hayriye Ayhan<a> (Thank you, Hayriye!).
-  <!-- <a href="" target="_blank">[Slides PDF]</a> -->
-  <!-- <a href="" download>[Download PPT]</a> -->
+<h4>INFORMS Annual Meeting, Nov 2026. Invited by <a href="https://sites.gatech.edu/hayriye-ayhan/">Hayriye Ayhan</a> (Thank you, Hayriye!).
+  <a href="{{ '/assets/slides/Cts_MSJ_Varying_INFORMS26.pptx' | relative_url }}" download>[Slides PPT]</a>
 </h4>
 
 <h4>Multiserver-job (MSJ) Scheduling with Continuous Requirement Distribution</h4>
 <p>
   INFORMS Annual Meeting, Oct 2025. Invited by Izzy Grosof (Thank you, Izzy!).
-  <!-- <a href="" target="_blank">[Slides PDF]</a>
-  <a href="" download>[Download PPT]</a> -->
+  <a href="{{ '/assets/slides/Cts_MSJ_MRJ_INFORMS25.pptx' | relative_url }}" download>[Slides PPT]</a>
   Related talk slides made and presented by Izzy in <a href="https://isaacg1.github.io/assets/cont-msj-cmu.pptx">CMU</a>,  <a href="https://isaacg1.github.io/assets/cont-msj-sn-26.pptx">Stochastic Network 2026</a>, and the <a href = "https://isaacg1.github.io/assets/cont-msj-gcasr.pptx">Greater Chicago Area Systems Research Workshop (GCASR)</a>.
-</h4>
+</p>
 
 
 Some Project Ideas and Ongoing Projects
